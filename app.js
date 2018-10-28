@@ -1,6 +1,5 @@
 import aframe from 'aframe';
 import aframe_stereo_component from './lib/aframe-stereo-component';
-import PHOTO from './img/square.jpeg';
 
 AFRAME.registerComponent('log', {
   schema: {type: 'string'},
